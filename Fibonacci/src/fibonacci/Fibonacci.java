@@ -7,7 +7,7 @@ import javax.swing.*;
  * @author Steven Biro
  * @teacher Mr. J. Carron
  * @date 23-Mar-2015 12:16:17 PM
- * @purpose The purpose of this program is to calculate terms of the fibonacci sequence
+ * @purpose The purpose of this program is to calculate terms of the Fibonacci sequence
  */
 public class Fibonacci {
 
